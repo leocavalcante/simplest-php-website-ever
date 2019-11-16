@@ -1,3 +1,4 @@
+<?php $pageTitle = 'Contact | SPWE' ?>
 <article class="page page-contact">
     <h1>Contact us!</h1>
     <form method="POST">
